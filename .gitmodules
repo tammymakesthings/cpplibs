@@ -1,0 +1,96 @@
+[submodule "tclap"]
+	path = tclap
+	url = git@github.com:mirror/tclap
+[submodule "boost"]
+	path = boost
+	url = git@github.com:boostorg/boost
+[submodule "EASTL"]
+	path = EASTL
+	url = git@github.com:electronicarts/EASTL
+[submodule "FunctionalPlus"]
+	path = FunctionalPlus
+	url = git@github.com:Dobiasd/FunctionalPlus
+[submodule "JUCE"]
+	path = JUCE
+	url = git@github.com:julianstorer/JUCE
+[submodule "asio"]
+	path = asio
+	url = git@github.com:chriskohlhoff/asio
+[submodule "promise-cpp"]
+	path = promise-cpp
+	url = git@github.com:xhawk18/promise-cpp
+[submodule "daniele77-cli"]
+	path = daniele77-cli
+	url = git@github.com:daniele77/cli
+[submodule "docopt.cpp"]
+	path = docopt.cpp
+	url = git@github.com:docopt/docopt.cpp
+[submodule "finalcut"]
+	path = finalcut
+	url = git@github.com:gansm/finalcut
+[submodule "replxx"]
+	path = replxx
+	url = git@github.com:AmokHuginnsson/replxx
+[submodule "libarchive"]
+	path = libarchive
+	url = git@github.com:libarchive/libarchive
+[submodule "parallelstl"]
+	path = parallelstl
+	url = git@github.com:intel/parallelstl
+[submodule "tomlplusplus"]
+	path = tomlplusplus
+	url = git@github.com:marzer/tomlplusplus
+[submodule "cryptopp"]
+	path = cryptopp
+	url = git@github.com:weidai11/cryptopp
+[submodule "sqlite_modern_cpp"]
+	path = sqlite_modern_cpp
+	url = git@github.com:SqliteModernCpp/sqlite_modern_cpp
+[submodule "matplotplusplus"]
+	path = matplotplusplus
+	url = git@github.com:alandefreitas/matplotplusplus
+[submodule "doctest"]
+	path = doctest
+	url = git@github.com:onqtam/doctest
+[submodule "dbg-macro"]
+	path = dbg-macro
+	url = git@github.com:sharkdp/dbg-macro
+[submodule "unittest-cpp"]
+	path = unittest-cpp
+	url = git@github.com:unittest-cpp/unittest-cpp
+[submodule "xtd"]
+	path = xtd
+	url = git@github.com:gammasoft71/xtd
+[submodule "libgd"]
+	path = libgd
+	url = git@github.com:libgd/libgd
+[submodule "grpc"]
+	path = grpc
+	url = git@github.com:grpc/grpc
+[submodule "log4cplus"]
+	path = log4cplus
+	url = git@github.com:log4cplus/log4cplus
+[submodule "NumCpp"]
+	path = NumCpp
+	url = git@github.com:dpilger26/NumCpp
+[submodule "memory"]
+	path = memory
+	url = git@github.com:foonathan/memory
+[submodule "clReflect"]
+	path = clReflect
+	url = git@github.com:Celtoys/clReflect
+[submodule "rttr"]
+	path = rttr
+	url = git@github.com:rttrorg/rttr
+[submodule "oniguruma"]
+	path = oniguruma
+	url = git@github.com:kkos/oniguruma
+[submodule "capnproto"]
+	path = capnproto
+	url = git@github.com:capnproto/capnproto
+[submodule "drogon"]
+	path = drogon
+	url = git@github.com:an-tao/drogon
+[submodule "treefrog-framework"]
+	path = treefrog-framework
+	url = git@github.com:treefrogframework/treefrog-framework
